@@ -1,0 +1,10 @@
+2021-05-20 20:03:17,609 - test_log.log - DEBUG - debug message
+2021-05-20 20:03:17,609 - test_log.log - INFO - info_message
+2021-05-20 20:03:17,609 - test_log.log - WARNING - warning message
+2021-05-20 20:03:17,609 - test_log.log - ERROR - error message
+2021-05-20 20:03:17,609 - test_log.log - CRITICAL - critical message
+2021-05-20 20:09:42,060 - test_log.log - DEBUG - debug message
+2021-05-20 20:09:42,060 - test_log.log - INFO - info_message
+2021-05-20 20:09:42,060 - test_log.log - WARNING - warning message
+2021-05-20 20:09:42,060 - test_log.log - ERROR - error message
+2021-05-20 20:09:42,060 - test_log.log - CRITICAL - critical message
